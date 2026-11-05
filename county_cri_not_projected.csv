@@ -1,0 +1,41 @@
+FIPS,State,County_Name,N_Years_Observed,Last_Observed_Year,Reason
+16037,ID,CUSTER,3,2025,Fewer than 4 years of CRI data
+20025,KS,CLARK,1,2025,Fewer than 4 years of CRI data
+20033,KS,COMANCHE,1,2025,Fewer than 4 years of CRI data
+20067,KS,GRANT,2,2025,Fewer than 4 years of CRI data
+20081,KS,HASKELL,2,2025,Fewer than 4 years of CRI data
+20097,KS,KIOWA,1,2025,Fewer than 4 years of CRI data
+20119,KS,MEADE,1,2025,Fewer than 4 years of CRI data
+20129,KS,MORTON,2,2025,Fewer than 4 years of CRI data
+20175,KS,SEWARD,2,2025,Fewer than 4 years of CRI data
+20187,KS,STANTON,2,2025,Fewer than 4 years of CRI data
+20189,KS,STEVENS,2,2025,Fewer than 4 years of CRI data
+27077,MN,LAKE OF THE WOODS,6,2019,No CRI since 2022
+29171,MO,PUTNAM,7,2019,No CRI since 2022
+30035,MT,GLACIER,1,2020,Fewer than 4 years of CRI data
+30069,MT,PETROLEUM,1,2025,Fewer than 4 years of CRI data
+31007,NE,BANNER,4,2019,No CRI since 2022
+31009,NE,BLAINE,3,2025,Fewer than 4 years of CRI data
+31023,NE,BUTLER,3,2019,Fewer than 4 years of CRI data
+31041,NE,CUSTER,3,2025,Fewer than 4 years of CRI data
+31047,NE,DAWSON,3,2025,Fewer than 4 years of CRI data
+31071,NE,GARFIELD,3,2025,Fewer than 4 years of CRI data
+31075,NE,GRANT,3,2025,Fewer than 4 years of CRI data
+31091,NE,HOOKER,3,2025,Fewer than 4 years of CRI data
+31113,NE,LOGAN,3,2025,Fewer than 4 years of CRI data
+31115,NE,LOUP,3,2025,Fewer than 4 years of CRI data
+31117,NE,MCPHERSON,3,2025,Fewer than 4 years of CRI data
+31129,NE,NUCKOLLS,3,2019,Fewer than 4 years of CRI data
+31143,NE,POLK,3,2019,Fewer than 4 years of CRI data
+31171,NE,THOMAS,3,2025,Fewer than 4 years of CRI data
+31175,NE,VALLEY,3,2025,Fewer than 4 years of CRI data
+31181,NE,WEBSTER,3,2019,Fewer than 4 years of CRI data
+46007,SD,BENNETT,2,2019,Fewer than 4 years of CRI data
+46053,SD,GREGORY,2,2025,Fewer than 4 years of CRI data
+46075,SD,JONES,7,2019,No CRI since 2022
+46117,SD,STANLEY,7,2019,No CRI since 2022
+46121,SD,TODD,2,2019,Fewer than 4 years of CRI data
+46123,SD,TRIPP,2,2025,Fewer than 4 years of CRI data
+51690,VA,MARTINSVILLE,2,2019,Fewer than 4 years of CRI data
+53069,WA,WAHKIAKUM,1,2025,Fewer than 4 years of CRI data
+56015,WY,GOSHEN,4,2019,No CRI since 2022
